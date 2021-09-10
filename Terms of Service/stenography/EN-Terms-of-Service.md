@@ -32,7 +32,7 @@ You’re solely responsible and liable for all activity under your account. You�
 
 Don’t share or misuse your access credentials. And notify us immediately of any unauthorized uses of your account, store, or website, or of any other breach of security. If we believe your account has been compromised, we may suspend or disable it.
 
-If you'd like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://automattic.com/privacy/).
+If you'd like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://github.com/StenographyDev/legalmattic/blob/master/Privacy-Policy.md).
 
 ## 3. Minimum Age Requirements
 
@@ -64,7 +64,7 @@ Please note that additional third-party terms and conditions may apply to Conten
 
 ### a. Automattic Fees
 
-**Fees for Paid Services.** Some of our Services are offered for a fee, like [Stenography Tier Plans](https://wordpress.com/pricing/), and [Stenography Team Plans](https://woocommerce.com/), (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees. For recurring fees, we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. 
+**Fees for Paid Services.** Some of our Services are offered for a fee, like [Stenography Tier Plans](http://localhost:4242/), and [Stenography Team Plans](http://localhost:4242/), (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees. For recurring fees, we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. 
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (“Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment.
 
