@@ -1,4 +1,4 @@
-Your privacy is critically important to us. At Stennography, we have a few fundamental principles:
+Your privacy is critically important to us. At Stenography, we have a few fundamental principles:
 
   
 
